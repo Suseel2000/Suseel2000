@@ -27,38 +27,89 @@ When I'm not coding, I love sharing knowledge with the developer community throu
 
       ## 🛠️ Tech Stack
 
-      ### 💻 Languages & Core
-      ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-      ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+      ### 💻 Languages
+      ![Java](https://img.shields.io/badge/Java%20(8%2F17%2F21)-007396?style=for-the-badge&logo=java&logoColor=white)
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
       ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![C++ (learning)](https://img.shields.io/badge/C%2B%2B%20(learning)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-      ### 🎨 Frontend
-      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-      ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-      ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-      ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
-      ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-      ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+      *Learning C++ for systems programming.*
 
-      ### ⚙️ Backend
-      ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-      ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+      ### ⚙️ Backend & Microservices
+      ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+      ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+      ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+      ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+      ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+      ![RxJava3](https://img.shields.io/badge/RxJava3-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+      ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
       ![JDBC](https://img.shields.io/badge/JDBC-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-      ![JMS](https://img.shields.io/badge/JMS-E10098?style=for-the-badge&logo=apache&logoColor=white)
-      ![EJB](https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white)
-      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-      ### ☁️ Cloud & DevOps
+      ### ☁️ Cloud & Infrastructure (AWS)
       ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
       ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-      ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
       ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+      ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+      ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+      ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
       ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-      ![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
-      ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-      ![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+      ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+      ![X-Ray](https://img.shields.io/badge/X--Ray-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+      ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+      ![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white)
+
+      *Production deployments at scale.*
+
+      ### 🔗 Distributed Systems
+      ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+      ![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+      ![Reactive](https://img.shields.io/badge/Reactive%20Programming-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+      *Topics, partitions, consumer groups; high-scale, low-latency systems.*
+
+      ### 🤖 ML / AI Foundations
+      ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+      ![Apache Spark](https://img.shields.io/badge/Spark%20Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+      ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+      ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+      ![LLMs](https://img.shields.io/badge/LLM%20Inference-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+      *Python data pipelines & ML integration patterns; actively studying PyTorch, transformer architecture, and the LLM inference lifecycle.*
+
+      ### 🗄️ Databases
+      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+      ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+      ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+      ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+      ![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+      ### 🚀 DevOps & CI/CD
+      ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+      ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+      ![Harness](https://img.shields.io/badge/Harness-00ADE4?style=for-the-badge&logo=harness&logoColor=white)
+      ![Lightspeed](https://img.shields.io/badge/Lightspeed-FFCD00?style=for-the-badge&logo=lightspeed&logoColor=black)
+      ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+      ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+      ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+      ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+      ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+      ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+      ### 📈 Observability
+      ![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+      ![X-Ray](https://img.shields.io/badge/AWS%20X--Ray-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+      ![AppDynamics](https://img.shields.io/badge/AppDynamics-330072?style=for-the-badge&logo=appdynamics&logoColor=white)
+      ![SRE](https://img.shields.io/badge/SRE%20Best%20Practices-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+      *Custom metrics dashboards & SRE best practices.*
+
+      ### 🧠 Core CS
+      ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white)
+      ![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+      ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+      ![Reliability](https://img.shields.io/badge/Reliability%20%26%20Scaling-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
       ### 🧰 Tools
       ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
